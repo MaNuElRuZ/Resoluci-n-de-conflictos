@@ -6,7 +6,7 @@ public class Resolución {
         System.out.println("hola");
         System.out.println("que tal");
         System.out.println("bien");
-        System.out.println("árbol,");
+        System.out.println("árbol, con pan");
 
     }
 }
