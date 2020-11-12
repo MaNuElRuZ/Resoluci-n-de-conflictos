@@ -5,5 +5,6 @@ public class Resolución {
 
         System.out.println("hola");
         System.out.println("que tal");
+        System.out.println("bien");
     }
 }
